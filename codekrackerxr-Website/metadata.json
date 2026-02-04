@@ -1,0 +1,10 @@
+{
+  "name": "CodeKrackerXR with App",
+  "description": "An immersive intro experience and landing page for the CodeKrackerXR challenge, featuring a high-tech vault aesthetic and video transitions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation",
+    "bluetooth"
+  ]
+}
